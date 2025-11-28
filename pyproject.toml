@@ -7,7 +7,7 @@ name = "hello"
 version = "0.1"
 description = "Hello Distribution Module"
 authors = [
-    { name="Ricardo Campos", email="your_email@example.com" }
+    { name="Caio Santos", email="your_email@example.com" }
 ]
 readme = "README.md"
 requires-python = ">=3.8"
